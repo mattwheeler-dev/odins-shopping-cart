@@ -7,3 +7,5 @@
 Shopping cart project as part of The Odin Project's ReactJS curriculum.
 </p>
 
+<p>Head to the Shop page and add whatever items you would like to your fake cart. Then you can head to the Cart page and remove items, empty the entire cart, or even fake checkout!</p>
+

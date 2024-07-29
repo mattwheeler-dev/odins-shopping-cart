@@ -11,5 +11,7 @@
 </p>
 
 <p>
-  Built using Vite and hosted with Firebase
+  Built using Vite and hosted with Firebase.
+  <br />
+  Product data gathered using <a href="https://fakestoreapi.com/" target="_blank">Fake Store API</a> 
 </p>

@@ -10,6 +10,8 @@
   Head to the Shop page and add whatever items you would like to your fake cart. Then you can head to the Cart page and remove items, empty the entire cart, or even fake checkout!
 </p>
 
+<a href="https://odin-shopping-cart.web.app/" target="_blank">Check it out here</a>
+
 <p>
   Built using Vite and hosted with Firebase.
   <br />
